@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eduardahelenacosta.contato@gmail.com**
 
-- <a href="https://www.scrum.org/certificates/526134" target="blank"><img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm" height="30" width="40"/></a> I like Agile. I have a PSM certificate from Scrum Org  
+- I like Agile. I have a PSM certificate from Scrum Org <a href="https://www.scrum.org/certificates/526134" target="blank"><img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm" height="30" width="50"/></a> 
 
 
 <h3 align="left">Connect with me:</h3>
