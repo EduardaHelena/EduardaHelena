@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Eduarda Helena</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate frontend developer from Brasil and PSM </h3>
 
 
 - 🔭 I’m currently working on **Stone Payments**
 
 - 📫 How to reach me **eduardahelenacosta.contato@gmail.com**
+
+- <a href="https://www.scrum.org/certificates/526134" target="blank"><img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm" height="30" width="40"/></a> I like Agile. I have a PSM certificate from Scrum Org  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
