@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Stone Payments**
 
-- 📫 How to reach me **eduardahelenacosta.contato@gmail.com**
-
 - I like Agile. I have a PSM certificate from Scrum Org <a href="https://www.scrum.org/certificates/526134" target="blank"><img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm" height="30" width="50"/></a> 
 
 
