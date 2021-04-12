@@ -7,6 +7,8 @@
 
 - I like Agile. I have a PSM certificate from Scrum Org <a href="https://www.scrum.org/certificates/526134" target="blank"><img align="center" src="https://static.scrum.org/web/badges/badge-psmi.svg" alt="psm" height="30" width="50"/></a> 
 
+- I did technical high school education in game programming at NAVE-RJ and study Computer Science at the State University of Rio de Janeiro
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
