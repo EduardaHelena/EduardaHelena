@@ -77,6 +77,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardahelena&show_icons=true&locale=en&layout=compact" alt="eduardahelena" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardahelena&show_icons=true&locale=en" alt="eduardahelena" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardahelena&" alt="eduardahelena" /></p>
