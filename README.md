@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eduarda Helena</h1>
-<h3 align="center">A passionate frontend developer from Brasil and PSM </h3>
+<h3 align="center">A passionate software developer from Brasil and PSM </h3>
 
 
 - 🔭 I’m currently working on **Stone Payments**
